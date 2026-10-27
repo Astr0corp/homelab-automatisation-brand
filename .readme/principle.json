@@ -1,0 +1,11 @@
+{
+  "accent": "#e0a458",
+  "duration": 16,
+  "steps": [
+    {"icon": "🎨", "label": "emblems.py", "detail": "SVG des divisions"},
+    {"icon": "🖼️", "label": "Chrome sans écran", "detail": "PNG 256 px"},
+    {"icon": "🦊", "label": "GitLab", "detail": "étiquette vX"},
+    {"icon": "🐙", "label": "Miroir GitHub", "detail": "public · jsDelivr"},
+    {"icon": "💬", "label": "Cartes Discord", "detail": "relais n8n"}
+  ]
+}

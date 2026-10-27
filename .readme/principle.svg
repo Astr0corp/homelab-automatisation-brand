@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0 57.8 755.6 144.4" width="1360" height="260" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<animate attributeName="viewBox" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.0858;0.156;0.2418;0.312;0.3978;0.468;0.5538;0.624;0.7254;0.78;0.96;1" values="0.0 57.8 755.6 144.4;0.0 57.8 755.6 144.4;32.2 57.8 755.6 144.4;32.2 57.8 755.6 144.4;302.2 57.8 755.6 144.4;302.2 57.8 755.6 144.4;572.2 57.8 755.6 144.4;572.2 57.8 755.6 144.4;604.4 57.8 755.6 144.4;604.4 57.8 755.6 144.4;0 0 1360 260;0 0 1360 260;0.0 57.8 755.6 144.4" keySplines="0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1;0.45 0 0.2 1"/>
+<defs>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1e293b" stroke-width="1"/></pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#e0a458" stop-opacity="0.9"/><stop offset="1" stop-color="#e0a458" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1360" height="260" rx="18" fill="#0b1120"/>
+<rect width="1360" height="260" rx="18" fill="url(#grid)"/>
+<line x1="240.0" y1="130.0" x2="310.0" y2="130.0" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-dasharray="70.0" stroke-dashoffset="70.0"><animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" keyTimes="0;0.0858;0.156;0.98;1" values="70.0;70.0;0;0;70.0"/></line>
+<circle r="7" fill="url(#glow)" opacity="0"><animateMotion dur="16s" repeatCount="indefinite" path="M240.0,130.0 H310.0" keyPoints="0;0;1;1" keyTimes="0;0.0858;0.156;1" calcMode="linear"/><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.0858;0.0908;0.156;0.161;1" values="0;0;1;1;0;0"/></circle>
+<line x1="510.0" y1="130.0" x2="580.0" y2="130.0" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-dasharray="70.0" stroke-dashoffset="70.0"><animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" keyTimes="0;0.2418;0.312;0.98;1" values="70.0;70.0;0;0;70.0"/></line>
+<circle r="7" fill="url(#glow)" opacity="0"><animateMotion dur="16s" repeatCount="indefinite" path="M510.0,130.0 H580.0" keyPoints="0;0;1;1" keyTimes="0;0.2418;0.312;1" calcMode="linear"/><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.2418;0.2468;0.312;0.317;1" values="0;0;1;1;0;0"/></circle>
+<line x1="780.0" y1="130.0" x2="850.0" y2="130.0" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-dasharray="70.0" stroke-dashoffset="70.0"><animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" keyTimes="0;0.3978;0.468;0.98;1" values="70.0;70.0;0;0;70.0"/></line>
+<circle r="7" fill="url(#glow)" opacity="0"><animateMotion dur="16s" repeatCount="indefinite" path="M780.0,130.0 H850.0" keyPoints="0;0;1;1" keyTimes="0;0.3978;0.468;1" calcMode="linear"/><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.3978;0.4028;0.468;0.473;1" values="0;0;1;1;0;0"/></circle>
+<line x1="1050.0" y1="130.0" x2="1120.0" y2="130.0" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-dasharray="70.0" stroke-dashoffset="70.0"><animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" keyTimes="0;0.5538;0.624;0.98;1" values="70.0;70.0;0;0;70.0"/></line>
+<circle r="7" fill="url(#glow)" opacity="0"><animateMotion dur="16s" repeatCount="indefinite" path="M1050.0,130.0 H1120.0" keyPoints="0;0;1;1" keyTimes="0;0.5538;0.624;1" calcMode="linear"/><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.5538;0.5588;0.624;0.629;1" values="0;0;1;1;0;0"/></circle>
+<g transform="translate(140.0 130.0)" opacity="0">
+<animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.02;0.06;0.97;1" values="0;0;1;1;0"/>
+<g>
+<animateTransform attributeName="transform" type="scale" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.02;0.06;0.97;1" values="0.6;0.6;1;1;0.6" keySplines="0 0 1 1;0.3 1.4 0.5 1;0 0 1 1;0 0 1 1"/>
+<circle r="84.0" fill="url(#glow)" opacity="0"><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.02;0.05;0.14;1" values="0;0;0.35;0;0"/></circle>
+<rect x="-100.0" y="-60.0" width="200" height="120" rx="14" fill="#111827" stroke="#e0a458" stroke-width="2"/>
+<text y="-14" text-anchor="middle" font-size="30">🎨</text>
+<text y="22" text-anchor="middle" font-size="17" font-weight="600" fill="#f8fafc">emblems.py</text>
+<text y="44" text-anchor="middle" font-size="12" fill="#94a3b8">SVG des divisions</text>
+</g></g>
+<g transform="translate(410.0 130.0)" opacity="0">
+<animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.156;0.196;0.97;1" values="0;0;1;1;0"/>
+<g>
+<animateTransform attributeName="transform" type="scale" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.156;0.196;0.97;1" values="0.6;0.6;1;1;0.6" keySplines="0 0 1 1;0.3 1.4 0.5 1;0 0 1 1;0 0 1 1"/>
+<circle r="84.0" fill="url(#glow)" opacity="0"><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.156;0.186;0.276;1" values="0;0;0.35;0;0"/></circle>
+<rect x="-100.0" y="-60.0" width="200" height="120" rx="14" fill="#111827" stroke="#e0a458" stroke-width="2"/>
+<text y="-14" text-anchor="middle" font-size="30">🖼️</text>
+<text y="22" text-anchor="middle" font-size="17" font-weight="600" fill="#f8fafc">Chrome sans écran</text>
+<text y="44" text-anchor="middle" font-size="12" fill="#94a3b8">PNG 256 px</text>
+</g></g>
+<g transform="translate(680.0 130.0)" opacity="0">
+<animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.312;0.352;0.97;1" values="0;0;1;1;0"/>
+<g>
+<animateTransform attributeName="transform" type="scale" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.312;0.352;0.97;1" values="0.6;0.6;1;1;0.6" keySplines="0 0 1 1;0.3 1.4 0.5 1;0 0 1 1;0 0 1 1"/>
+<circle r="84.0" fill="url(#glow)" opacity="0"><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.312;0.342;0.432;1" values="0;0;0.35;0;0"/></circle>
+<rect x="-100.0" y="-60.0" width="200" height="120" rx="14" fill="#111827" stroke="#e0a458" stroke-width="2"/>
+<text y="-14" text-anchor="middle" font-size="30">🦊</text>
+<text y="22" text-anchor="middle" font-size="17" font-weight="600" fill="#f8fafc">GitLab</text>
+<text y="44" text-anchor="middle" font-size="12" fill="#94a3b8">étiquette vX</text>
+</g></g>
+<g transform="translate(950.0 130.0)" opacity="0">
+<animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.468;0.508;0.97;1" values="0;0;1;1;0"/>
+<g>
+<animateTransform attributeName="transform" type="scale" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.468;0.508;0.97;1" values="0.6;0.6;1;1;0.6" keySplines="0 0 1 1;0.3 1.4 0.5 1;0 0 1 1;0 0 1 1"/>
+<circle r="84.0" fill="url(#glow)" opacity="0"><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.468;0.498;0.588;1" values="0;0;0.35;0;0"/></circle>
+<rect x="-100.0" y="-60.0" width="200" height="120" rx="14" fill="#111827" stroke="#e0a458" stroke-width="2"/>
+<text y="-14" text-anchor="middle" font-size="30">🐙</text>
+<text y="22" text-anchor="middle" font-size="17" font-weight="600" fill="#f8fafc">Miroir GitHub</text>
+<text y="44" text-anchor="middle" font-size="12" fill="#94a3b8">public · jsDelivr</text>
+</g></g>
+<g transform="translate(1220.0 130.0)" opacity="0">
+<animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.624;0.664;0.97;1" values="0;0;1;1;0"/>
+<g>
+<animateTransform attributeName="transform" type="scale" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.624;0.664;0.97;1" values="0.6;0.6;1;1;0.6" keySplines="0 0 1 1;0.3 1.4 0.5 1;0 0 1 1;0 0 1 1"/>
+<circle r="84.0" fill="url(#glow)" opacity="0"><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.624;0.654;0.744;1" values="0;0;0.35;0;0"/></circle>
+<rect x="-100.0" y="-60.0" width="200" height="120" rx="14" fill="#111827" stroke="#e0a458" stroke-width="2"/>
+<text y="-14" text-anchor="middle" font-size="30">💬</text>
+<text y="22" text-anchor="middle" font-size="17" font-weight="600" fill="#f8fafc">Cartes Discord</text>
+<text y="44" text-anchor="middle" font-size="12" fill="#94a3b8">relais n8n</text>
+</g></g>
+</svg>
