@@ -22,6 +22,7 @@ L'identité visuelle d'Astrocorp, le homelab d'astronas : un emblème par divisi
 | <img src="discord/astro-forge.png" width="48"> | **Astro Forge** | CI/CD : pipelines GitLab en échec, déploiements | ambre `#e0a458` |
 | <img src="discord/astro-core.png" width="48"> | **Astro Core** | infrastructure : notifications de Proxmox | bleu `#60a5fa` |
 | <img src="discord/astro-update.png" width="48"> | **Astro Update** | mises à jour des applications par Renovate | vert `#4ade80` |
+| <img src="discord/jarvis.png" width="48"> | **Jarvis** | le majordome : météo de l'infrastructure chaque matin à 7 h | aurore `#fbbf24` |
 
 Fond commun : le ciel nocturne du portail Homepage (bleu-vert profond, étoiles, cœur ambré de la Voie lactée).
 

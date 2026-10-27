@@ -25,6 +25,7 @@ DIVISIONS = {
     "astro-forge": ("Astro Forge", "#e0a458", "rocket"),
     "astro-core": ("Astro Core", "#60a5fa", "planet"),
     "astro-update": ("Astro Update", "#4ade80", "comet"),
+    "jarvis": ("Jarvis", "#fbbf24", "sunrise"),
 }
 
 W = 'fill="none" stroke="#f4f7f8" stroke-linecap="round" stroke-linejoin="round"'
@@ -51,6 +52,11 @@ GLYPHS = {
       <path d="M138 344 L286 196" {W} stroke-width="10" opacity=".35"/>
       <circle cx="338" cy="190" r="46" fill="#f4f7f8"/>
       <path d="M338 166 V214 M314 190 L338 166 L362 190" fill="none" stroke="{{accent}}" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>''',
+    # Jarvis, the morning butler: a sun rising over the horizon of a planet
+    "sunrise": f'''<circle cx="256" cy="262" r="64" fill="{{accent}}"/>
+      <path d="M256 158 V126 M186 186 L164 164 M326 186 L348 164 M156 262 H124 M356 262 H388" {W} stroke-width="14"/>
+      <g clip-path="url(#disc)"><circle cx="256" cy="610" r="300" fill="#071a20" stroke="#f4f7f8" stroke-width="14"/>
+      <path d="M120 360 C200 336 312 336 392 360" fill="none" stroke="{{accent}}" stroke-width="8" stroke-linecap="round" opacity=".6"/></g>''',
     # Astrocorp seal: an A circled by an orbit, a star above it
     "seal": f'''<path d="M170 380 L256 132 L342 380" {W} stroke-width="22"/>
       <ellipse cx="256" cy="300" rx="132" ry="34" transform="rotate(-12 256 300)" fill="none" stroke="{{accent}}" stroke-width="12"/>
