@@ -30,9 +30,9 @@ Fond commun : le ciel nocturne du portail Homepage (bleu-vert profond, étoiles,
 
 | Chemin | Rôle |
 |---|---|
-| `tools/emblems.py` | dessine les emblèmes (SVG), puis les convertit en PNG par Chrome sans écran |
+| `tools/emblems.py` | dessine les emblèmes (SVG), puis les convertit en PNG fixe et en GIF animé par Chrome sans écran |
 | `svg/` | emblèmes vectoriels, source de vérité |
-| `discord/` | emblèmes PNG 256 px, servis par `https://cdn.jsdelivr.net/gh/Astr0corp/<dépôt>@<étiquette>/discord/<division>.png` |
+| `discord/` | emblèmes fixes (PNG 256 px, avatars) et animés (GIF 160 px, vignettes des cartes), servis par `https://cdn.jsdelivr.net/gh/Astr0corp/<dépôt>@<étiquette>/discord/<division>.png` ou `.gif` |
 
 ## Publier une nouvelle version
 
