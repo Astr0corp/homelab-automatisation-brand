@@ -32,10 +32,12 @@ Fond commun : le ciel nocturne du portail Homepage (bleu-vert profond, étoiles,
 |---|---|
 | `tools/emblems.py` | dessine les emblèmes (SVG), puis les convertit en PNG fixe et en GIF animé par Chrome sans écran |
 | `svg/` | emblèmes vectoriels, source de vérité |
+| `tools/apps.py` | copie les logos d'applications de [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) (Apache-2.0), 128 px |
+| `discord/apps/` | logos des applications des cartes (jsDelivr ne sert plus dashboard-icons directement : dépôt au-delà de 50 Mo) |
 | `discord/` | emblèmes fixes (PNG 256 px, avatars) et animés (GIF 160 px, vignettes des cartes), servis par `https://cdn.jsdelivr.net/gh/Astr0corp/<dépôt>@<étiquette>/discord/<division>.png` ou `.gif` |
 
 ## Publier une nouvelle version
 
-1. Modifier `tools/emblems.py`, puis `python tools/emblems.py`.
+1. Modifier `tools/emblems.py`, puis `python tools/emblems.py` ; pour un nouveau logo d'application, l'ajouter à `ICONS` dans `tools/apps.py`, puis `python tools/apps.py`.
 2. Commit, étiquette `vX` (jsDelivr garde en cache une étiquette donnée pour toujours : une nouvelle image demande une nouvelle étiquette).
-3. Changer l'étiquette dans les cartes du relais (`n8n-workflows`, constante `BRAND`).
+3. Changer l'étiquette dans les cartes du relais (`n8n-workflows`, constantes `BRAND` et `ICON`).
